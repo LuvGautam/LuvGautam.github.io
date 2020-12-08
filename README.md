@@ -18,6 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+Hello world!
+
 1. Numbered
 2. List
 
